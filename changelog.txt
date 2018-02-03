@@ -1,3 +1,7 @@
+This is hechism game, a fork of kittens game
+
+
+
 v 1.4.4.4
 
 Added blackcoins and blackchain
